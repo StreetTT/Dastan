@@ -17,4 +17,4 @@ Contributions to this repository are welcome. Developers are encouraged to submi
 This repository is intended for educational purposes only. It is not affiliated with AQA or ZigZag Education. The code provided here should be used responsibly and ethically, and any usage for academic purposes should adhere to relevant academic integrity policies.
 
 ## License:
-The code in this repository is provided under the [MIT License]. Feel free to modify and distribute the code for personal or commercial use.
+The code in this repository is provided under the [MIT License](LICENSE.txt). Feel free to modify and distribute the code for personal or commercial use.
